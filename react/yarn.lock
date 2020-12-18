@@ -5361,17 +5361,25 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-"vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.2/public/@types/vtex.css-handles":
-  version "0.4.2"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.2/public/@types/vtex.css-handles#62ee61d1bb9efdc919e5cf4bb44fabcf9050d255"
+"vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles":
+  version "0.4.4"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles#8c45c6decf9acd2b944e07261686decff93d6422"
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.94.0/public/@types/vtex.render-runtime":
-  version "8.94.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.94.0/public/@types/vtex.render-runtime#e79eb9a66801476b66e7ed354a83a7ff1f1c72c7"
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.6/public/@types/vtex.product-context":
+  version "0.9.6"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.6/public/@types/vtex.product-context#0d516252cdd7a4e66b422e4784206999afb53e0d"
 
-"vtex.styleguide@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.112.8/public/@types/vtex.styleguide":
-  version "9.112.8"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.112.8/public/@types/vtex.styleguide#3a75bf37150dd13762664e6ae15924ca4f48317c"
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.126.4/public/@types/vtex.render-runtime":
+  version "8.126.4"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.126.4/public/@types/vtex.render-runtime#40d7ad8a7b04c50e61ff84a1089dcf7045efd548"
+
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.37.0/public/@types/vtex.search-graphql":
+  version "0.37.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.37.0/public/@types/vtex.search-graphql#c62dd40d8182ee14a554debeb31965d1b53a8783"
+
+"vtex.styleguide@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.134.0/public/@types/vtex.styleguide":
+  version "9.134.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.134.0/public/@types/vtex.styleguide#9ce9062c2a0f9925d7a926a9c4d544b4f0409590"
 
 w3c-hr-time@^1.0.1:
   version "1.0.1"
